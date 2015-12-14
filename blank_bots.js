@@ -11,6 +11,8 @@ function QuickBot() {
     console.log("first bot");
 }
 console.log("first bot");
+
+
 window.botList.push(new QuickBot());
 
 window.updateBotList();
