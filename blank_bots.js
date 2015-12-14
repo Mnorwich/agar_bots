@@ -9,6 +9,7 @@ function QuickBot() {
                 screenToGameY(getMouseY())];
     };
 }
+console.log("first bot");
 window.botList.push(new QuickBot());
 
 window.updateBotList();
